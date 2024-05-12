@@ -33,7 +33,7 @@ Please see [SECURITY](https://github.com/RoutingK-it/rk-client/blob/main/SECURIT
 
 
 ## License
-RoutingK.it © 2024 by Dennis de Houx is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+This project is licensed under the GPL-3.0 license. See [LICENSE](https://github.com/RoutingK-it/rk-client#GPL-3.0-1-ov-file) for more information.
 
 
 ## Authors
