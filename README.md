@@ -29,11 +29,11 @@ Reach out to the maintainer at one of the following places:
 
 
 ## Security
-Please see [SECURITY](https://github.com/RoutingK-it/rk-client/blob/main/SECURITY.md) for details.
+Please see [SECURITY](https://github.com/RoutingK-it/rk-client?tab=security-ov-file) for details.
 
 
 ## License
-This project is licensed under the GPL-3.0 license. See [LICENSE](https://github.com/RoutingK-it/rk-client#GPL-3.0-1-ov-file) for more information.
+This project is licensed under the GPL-3.0 license. See [LICENSE](https://github.com/RoutingK-it/rk-client?tab=GPL-3.0-1-ov-file) for more information.
 
 
 ## Authors
